@@ -63,7 +63,7 @@ def getResponse(ints, intents_json):
         else:
             result = "You must ask the right questions"
     return result
-
+#
     
 
 def chatbot_response(msg):
